@@ -2,7 +2,7 @@
 bin/
 
 # Ignorar pasta settings
-settings/
+.settings/
 
 # Compiled class file
 *.class
